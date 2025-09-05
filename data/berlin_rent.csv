@@ -1,0 +1,201 @@
+district,type,sqm,price
+Steglitz-Zehlendorf,Studio,41,1169
+Spandau,Loft,91,1436
+Pankow,Loft,44,1089
+Spandau,Shared Room,76,2275
+Mitte,Shared Room,61,1240
+Friedrichshain-Kreuzberg,Apartment,55,1817
+Pankow,Loft,115,1338
+Charlottenburg-Wilmersdorf,Apartment,119,870
+Lichtenberg,Loft,71,1871
+Tempelhof-Schöneberg,Apartment,84,595
+Treptow-Köpenick,Apartment,56,1275
+Charlottenburg-Wilmersdorf,Shared Room,66,491
+Tempelhof-Schöneberg,Shared Room,105,904
+Friedrichshain-Kreuzberg,Apartment,115,2206
+Spandau,Studio,25,1408
+Marzahn-Hellersdorf,Apartment,106,1719
+Charlottenburg-Wilmersdorf,Studio,103,1632
+Mitte,Apartment,47,1244
+Charlottenburg-Wilmersdorf,Loft,100,492
+Mitte,Studio,31,1308
+Friedrichshain-Kreuzberg,Studio,75,2214
+Lichtenberg,Shared Room,69,2049
+Steglitz-Zehlendorf,Loft,41,753
+Reinickendorf,Studio,55,2408
+Neukölln,Shared Room,107,2069
+Lichtenberg,Studio,73,710
+Charlottenburg-Wilmersdorf,Loft,39,309
+Steglitz-Zehlendorf,Apartment,92,2371
+Friedrichshain-Kreuzberg,Loft,47,978
+Mitte,Apartment,30,2043
+Marzahn-Hellersdorf,Loft,27,1805
+Pankow,Shared Room,39,1336
+Pankow,Shared Room,73,1858
+Mitte,Studio,42,1635
+Tempelhof-Schöneberg,Shared Room,57,1079
+Marzahn-Hellersdorf,Shared Room,45,2175
+Spandau,Loft,53,1404
+Marzahn-Hellersdorf,Studio,110,838
+Steglitz-Zehlendorf,Loft,39,376
+Pankow,Shared Room,74,1115
+Neukölln,Loft,44,1888
+Reinickendorf,Shared Room,24,1180
+Friedrichshain-Kreuzberg,Apartment,42,1117
+Spandau,Shared Room,48,1465
+Friedrichshain-Kreuzberg,Studio,68,400
+Steglitz-Zehlendorf,Loft,104,1265
+Marzahn-Hellersdorf,Shared Room,38,452
+Tempelhof-Schöneberg,Shared Room,29,1517
+Tempelhof-Schöneberg,Shared Room,74,2084
+Tempelhof-Schöneberg,Apartment,104,679
+Pankow,Studio,63,2028
+Steglitz-Zehlendorf,Shared Room,105,1788
+Tempelhof-Schöneberg,Shared Room,67,2186
+Tempelhof-Schöneberg,Loft,79,1864
+Lichtenberg,Studio,31,639
+Pankow,Loft,52,2145
+Reinickendorf,Loft,51,1343
+Pankow,Loft,109,2356
+Steglitz-Zehlendorf,Studio,98,1409
+Reinickendorf,Studio,80,308
+Reinickendorf,Apartment,75,466
+Treptow-Köpenick,Loft,24,307
+Marzahn-Hellersdorf,Shared Room,90,2118
+Marzahn-Hellersdorf,Studio,97,1228
+Mitte,Loft,99,1422
+Reinickendorf,Shared Room,79,1153
+Tempelhof-Schöneberg,Loft,34,968
+Charlottenburg-Wilmersdorf,Loft,77,1830
+Friedrichshain-Kreuzberg,Studio,61,924
+Marzahn-Hellersdorf,Loft,38,1314
+Steglitz-Zehlendorf,Studio,59,401
+Marzahn-Hellersdorf,Studio,119,763
+Lichtenberg,Studio,61,1977
+Steglitz-Zehlendorf,Apartment,47,2477
+Treptow-Köpenick,Apartment,24,1154
+Spandau,Loft,92,1096
+Spandau,Loft,73,574
+Friedrichshain-Kreuzberg,Shared Room,59,884
+Friedrichshain-Kreuzberg,Shared Room,31,524
+Steglitz-Zehlendorf,Shared Room,71,810
+Charlottenburg-Wilmersdorf,Loft,69,2211
+Neukölln,Shared Room,75,2351
+Lichtenberg,Shared Room,50,487
+Treptow-Köpenick,Studio,80,1208
+Reinickendorf,Loft,62,1532
+Marzahn-Hellersdorf,Studio,42,1948
+Marzahn-Hellersdorf,Studio,37,1837
+Lichtenberg,Shared Room,100,1274
+Treptow-Köpenick,Loft,100,2261
+Lichtenberg,Loft,92,1155
+Reinickendorf,Shared Room,92,676
+Lichtenberg,Loft,41,2461
+Lichtenberg,Loft,42,1129
+Neukölln,Shared Room,115,885
+Charlottenburg-Wilmersdorf,Studio,100,2028
+Friedrichshain-Kreuzberg,Apartment,20,1939
+Tempelhof-Schöneberg,Shared Room,116,1928
+Neukölln,Loft,53,2357
+Marzahn-Hellersdorf,Studio,93,769
+Treptow-Köpenick,Studio,43,872
+Steglitz-Zehlendorf,Loft,77,1012
+Marzahn-Hellersdorf,Apartment,93,1354
+Treptow-Köpenick,Shared Room,68,1514
+Neukölln,Shared Room,112,1730
+Charlottenburg-Wilmersdorf,Loft,80,529
+Marzahn-Hellersdorf,Apartment,25,1426
+Pankow,Apartment,110,715
+Lichtenberg,Apartment,29,847
+Neukölln,Apartment,23,1185
+Reinickendorf,Loft,43,2457
+Friedrichshain-Kreuzberg,Studio,33,599
+Pankow,Shared Room,31,1468
+Spandau,Loft,71,1582
+Reinickendorf,Shared Room,68,2398
+Pankow,Apartment,73,2215
+Charlottenburg-Wilmersdorf,Apartment,117,1118
+Friedrichshain-Kreuzberg,Studio,77,2291
+Spandau,Shared Room,104,2196
+Steglitz-Zehlendorf,Loft,85,1003
+Charlottenburg-Wilmersdorf,Studio,28,1650
+Mitte,Shared Room,112,962
+Charlottenburg-Wilmersdorf,Loft,78,777
+Friedrichshain-Kreuzberg,Apartment,96,2193
+Friedrichshain-Kreuzberg,Apartment,86,549
+Tempelhof-Schöneberg,Studio,70,2240
+Friedrichshain-Kreuzberg,Studio,63,2288
+Lichtenberg,Shared Room,53,1648
+Tempelhof-Schöneberg,Studio,56,393
+Steglitz-Zehlendorf,Shared Room,102,491
+Tempelhof-Schöneberg,Shared Room,105,1554
+Steglitz-Zehlendorf,Shared Room,102,2120
+Spandau,Loft,75,1445
+Friedrichshain-Kreuzberg,Apartment,41,981
+Tempelhof-Schöneberg,Studio,117,657
+Treptow-Köpenick,Studio,61,311
+Pankow,Shared Room,74,2356
+Pankow,Studio,21,1607
+Neukölln,Shared Room,38,442
+Neukölln,Loft,110,1411
+Lichtenberg,Studio,105,839
+Lichtenberg,Studio,59,842
+Lichtenberg,Shared Room,116,2421
+Treptow-Köpenick,Studio,112,2441
+Pankow,Loft,47,1713
+Lichtenberg,Shared Room,33,1341
+Marzahn-Hellersdorf,Studio,47,1861
+Charlottenburg-Wilmersdorf,Loft,28,2186
+Marzahn-Hellersdorf,Studio,32,813
+Charlottenburg-Wilmersdorf,Apartment,39,2095
+Tempelhof-Schöneberg,Studio,95,440
+Neukölln,Apartment,78,2265
+Charlottenburg-Wilmersdorf,Studio,91,819
+Treptow-Köpenick,Studio,68,2065
+Treptow-Köpenick,Apartment,117,2321
+Friedrichshain-Kreuzberg,Apartment,44,1911
+Charlottenburg-Wilmersdorf,Studio,46,2419
+Treptow-Köpenick,Shared Room,28,2001
+Neukölln,Studio,23,727
+Treptow-Köpenick,Apartment,74,398
+Mitte,Loft,36,1019
+Lichtenberg,Studio,119,1790
+Neukölln,Apartment,114,1225
+Neukölln,Loft,85,1568
+Treptow-Köpenick,Studio,106,858
+Reinickendorf,Loft,104,641
+Marzahn-Hellersdorf,Shared Room,109,1220
+Charlottenburg-Wilmersdorf,Studio,89,895
+Charlottenburg-Wilmersdorf,Shared Room,108,718
+Reinickendorf,Loft,52,1844
+Treptow-Köpenick,Apartment,25,1637
+Reinickendorf,Apartment,108,1773
+Steglitz-Zehlendorf,Studio,32,876
+Reinickendorf,Loft,67,1502
+Mitte,Shared Room,35,1766
+Treptow-Köpenick,Studio,54,733
+Treptow-Köpenick,Apartment,55,1434
+Steglitz-Zehlendorf,Loft,46,1135
+Reinickendorf,Shared Room,38,1419
+Reinickendorf,Loft,111,1250
+Reinickendorf,Shared Room,66,2360
+Friedrichshain-Kreuzberg,Studio,66,762
+Treptow-Köpenick,Studio,52,586
+Spandau,Apartment,66,1347
+Marzahn-Hellersdorf,Shared Room,88,1334
+Spandau,Apartment,69,1928
+Pankow,Apartment,96,1660
+Marzahn-Hellersdorf,Loft,80,464
+Reinickendorf,Studio,68,1693
+Mitte,Studio,97,2346
+Treptow-Köpenick,Loft,49,491
+Spandau,Apartment,54,2019
+Reinickendorf,Shared Room,42,402
+Lichtenberg,Studio,76,456
+Neukölln,Apartment,73,1895
+Reinickendorf,Shared Room,73,1237
+Tempelhof-Schöneberg,Loft,92,1027
+Tempelhof-Schöneberg,Studio,31,2148
+Treptow-Köpenick,Apartment,57,2192
+Neukölln,Loft,114,1999
+Lichtenberg,Apartment,64,1199
