@@ -9,8 +9,13 @@ python_project_4/
 ├── env/ # virtual environment
 ├── data/
 │ └── berlin_rent.csv # dataset with simulated rental data
+├── images/ # generated plots
+│ ├── distribution_prices.png
+│ ├── average_price.png
+│ └── relationship_sqm_price.png
 ├── berlin_rent_analysis.py # main analysis script
-└── README.md
+├── README.md # English version
+└── README.de.md # German version
 
 ## ⚙️ Technologies Used
 - Python 3.13
